@@ -1,0 +1,98 @@
+.center {
+  margin: auto;
+  width: 90%;
+  border: 3px solid rgb(206, 212, 206);
+  padding: 30px;
+  color: rgb(68, 0, 255);
+}
+.center button{
+  width: 100%;
+}
+.center h5 , Link{
+  color: rgb(4, 10, 58) !important;
+}
+
+.navbar-nav{
+  text-align: right;
+}
+.imgss{
+ width: 50%;
+}
+
+.dashhord{
+  height: 900px;
+  border: 2px solid rgb(13, 211, 194);
+  margin-top: -15px;
+}
+.navbar{
+  border: 2px solid rgb(18, 199, 184);
+  color: bisque !important;
+
+}
+img{
+  width: 90%;
+  height: 30%;
+}
+#dark{
+  display: none;
+}
+.imgss{
+  padding: 20px 20px;
+  border: 1px solid burlywood;
+  
+}
+.git{
+  font-size: 40px;
+  margin-left: 9px;
+}
+ul{
+  list-style: none;
+  text-decoration: none;
+
+}
+.link ,.navbar-brand,.nav-link{
+  text-decoration: none;
+  color: rgb(18, 199, 184) !important;
+  font-size: 20px;
+}
+h5{
+  color: rgb(128, 167, 167) !important;
+}
+.container-fluid{
+  color: aliceblue;
+}
+
+#li-right{
+margin-left: 190px;
+}
+
+.nav{
+  margin-left: 30px;
+
+}
+
+.nav-item:hover{
+  border: 1px solid whitesmoke;
+  
+}
+
+
+footer{
+  position: absolute;
+  bottom: -700px;
+  width: 100%;
+  background-color: rgb(12, 1, 36);
+  color: white;
+  text-align: center;
+}
+
+.iconface{
+  font-size: 50px;
+  text-decoration: none;
+  color: bisque;
+  border-radius:50px;
+}
+.foot{
+  padding: 20px;
+  font-size: 60px;
+}
