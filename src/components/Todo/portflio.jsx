@@ -36,7 +36,7 @@ export const Portflio = () => {
                <div class="card-body">
                  <h5 class="card-title">{item.name}</h5>
                  <p class="card-text">front end web site </p>
-                 <a href={item.url} class="btn btn-primary">Go web site </a>
+                 <a href={item.url} class="btn btn-primary">Go web sitee </a>
                </div>
              </div>
            
