@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <footer>
       <div className="col-12">
-      <h3 className='foot'> eng.mohamed hamed </h3>
+      <h6 className='foot'> eng.mohamed hamed </h6>
       <a href='https://www.facebook.com/profile.php?id=100001430710378' style={{color:'blue'}}  className='iconface'><AiFillFacebook/>  </a>
 
       <a className='iconface' href="https://api.whatsapp.com/send?phone=01005814378"><FcSms/></a>
